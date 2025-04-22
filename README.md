@@ -10,8 +10,7 @@ In this project, we focus on BBCA (Bank Central Asia) — one of the most widely
 - Visualize predictions and evaluate them against a baseline method.
 
 ### Dataset
-In this project, we use daily BBCA historical stock price dated from 01/02/2020	to 03/18/2025 provided by Investing.com. The dataset can be accessed [here](https://github.com/user-attachments/assets/50c73310-37e2-4120-931e-38828cd9d0f2)
-.
+In this project, we use 1262 data points of daily BBCA historical stock price dated from 01/02/2020	to 03/18/2025 provided by Investing.com. The dataset can be accessed [here](https://github.com/user-attachments/assets/50c73310-37e2-4120-931e-38828cd9d0f2).
 
 ### Column Descriptions
 
